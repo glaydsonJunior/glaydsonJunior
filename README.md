@@ -14,4 +14,5 @@
   <h2>Tecnologia back-end</h2>
   <img height='80em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
   <img height='80em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img height='80em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
 </div>
