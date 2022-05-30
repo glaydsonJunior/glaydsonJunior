@@ -1,7 +1,7 @@
 ## Olá
 -💻 I'm currently studying C.
 <br>
--😀 Softs skills:self-taught,solve problems,learn fast.
+-😀 Softs skills: self-taught,solve problems and learn fast.
 <div>
   <img height="180em" src='https://github-readme-stats.vercel.app/api?username=FreakW&theme=tokyonight'>
   <img height="180em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight'>
