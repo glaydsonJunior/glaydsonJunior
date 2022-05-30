@@ -6,5 +6,5 @@
 </div>
 <div>
   <h2>Tecnologias e linguagens back-end</h2>
-  <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
+  <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black'>
 </div>
