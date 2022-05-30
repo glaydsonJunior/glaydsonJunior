@@ -6,5 +6,5 @@
 </div>
 <div>
   <h2>Tecnologias front-end</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img height='10em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 </div>
