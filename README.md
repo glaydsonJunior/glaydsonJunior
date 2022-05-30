@@ -7,5 +7,11 @@
 <div>
   <h2>Tecnologias front-end</h2>
   <img height='80em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  <img height='80em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" >
+  <img height='80em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img height='80em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+</div>
+<div>
+  <h2>Tecnologia back-end</h2>
+  <img height='80em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
+  <img height='80em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
 </div>
