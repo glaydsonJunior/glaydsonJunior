@@ -5,6 +5,6 @@
   <img height="180em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark'>
 </div>
 <div>
-  <h2>Tecnologias e linguagens back-end</h2>
-  <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black'>
+  <h2>Tecnologias front-end</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 </div>
