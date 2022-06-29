@@ -26,6 +26,6 @@
  </div>
  <div>
   <h2>Database</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  <img height='80em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
   </div>
   
