@@ -1,5 +1,5 @@
-## Olá! Eu sou o Glaydson Júnior👋
-
+## Olá!👋
+<p>Estudando php 🤓</p>
 <br>
 <div>
   <img height="180em" src='https://github-readme-stats.vercel.app/api?username=glaydsonJunior&theme=tokyonight'>
