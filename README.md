@@ -1,9 +1,5 @@
 ## Olá! Eu sou o Glaydson Júnior👋
-<style>
-  .icones{
-  height:10px;
-  }
-</style>
+
 <br>
 <div>
   <img height="180em" src='https://github-readme-stats.vercel.app/api?username=glaydsonJunior&theme=tokyonight'>
