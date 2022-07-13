@@ -1,4 +1,5 @@
-## Olá!👋
+## Olá!👋, Me chamo Glaydson
+<h2>Estou a procura de uma primeira oportunidade como programador</h2>
 <p>-Sou autodidata🤠</p>
 <p>-Estudando php 🤓</p>
 <br>
@@ -15,5 +16,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </div>
   </div>
- <h2>Objetivo</h2>
- <p>Buscando primeira vaga como programador</p>
