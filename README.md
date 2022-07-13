@@ -1,5 +1,5 @@
 ## Olá!👋
-<p>Sou autodidata</p>
+<p>-Sou autodidata</p>
 <p>-Estudando php 🤓</p>
 <br>
 <div>
