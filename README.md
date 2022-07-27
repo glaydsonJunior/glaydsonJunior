@@ -1,7 +1,7 @@
 ## Olá!👋
 <h2>Me chamo Glaydson e estou a procura de uma primeira oportunidade como programador</h2>
 <p>-Sou autodidata🤠</p>
-<p>-Aprofundando meus conhecimentos em linux🐧</p>
+<p>-Estudando</p>
 <br>
 <div>
   <img height="180em" src='https://github-readme-stats.vercel.app/api?username=glaydsonJunior&theme=tokyonight'>
