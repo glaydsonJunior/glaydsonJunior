@@ -1,5 +1,5 @@
 ## Olá!👋
-<h2>Me chamo Glaydson e estou a procura de uma primeira oportunidade como programador</h2>
+<h2>A procura de uma primeira oportunidade como programador</h2>
 <p>-Sou autodidata🤠</p>
 <br>
 <div>
