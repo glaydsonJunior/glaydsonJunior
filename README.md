@@ -1,6 +1,5 @@
 ## Olá!👋
-<h2>A procura de uma primeira oportunidade como programador</h2>
-<p>-Sou autodidata🤠</p>
+<h2>A procura de uma primeira oportunidade como desenvolvedor</h2>
 <br>
 <div>
   <img height="180em" src='https://github-readme-stats.vercel.app/api?username=glaydsonJunior&theme=tokyonight'>
